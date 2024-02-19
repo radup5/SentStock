@@ -8,3 +8,5 @@ matplotlib==3.7.2
 transformers==4.37.2
 scipy==1.12.0
 matplotlib-inline==0.1.6
+datasets==2.17.0
+sentencepiece==0.1.99
